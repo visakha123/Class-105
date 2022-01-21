@@ -1,0 +1,17 @@
+#heading{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font:bold;
+}
+ body{
+     background: linear-gradient(pink,violet,darkorchid,purple,indigo);
+ }
+ #object{
+     color: white;
+ }
+ #accuracy{
+     color: white;
+ }
+ #label{
+     color: blue;
+     font-family: cursive;
+ }
